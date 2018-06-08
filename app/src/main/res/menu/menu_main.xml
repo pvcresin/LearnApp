@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+    <item android:id="@+id/Menu1" android:showAsAction="never" android:title="1: Title" />
+    <item android:id="@+id/Menu2" android:showAsAction="never" android:title="2: Toast" />
+    <item android:id="@+id/Menu3" android:showAsAction="never" android:title="3: Alert" />
+    <item android:id="@+id/Menu4" android:showAsAction="never" android:title="4: DrawView" />
+    <item android:id="@+id/Menu5" android:showAsAction="never" android:title="5: ImageView" />
+    <item android:id="@+id/Menu6" android:showAsAction="never" android:title="6: SurfaceView" />
+    <item android:id="@+id/Menu7" android:showAsAction="never" android:title="7: AndroidBeam" />
+    <item android:id="@+id/Menu8" android:showAsAction="never" android:title="8: ListView" />
+    <item android:id="@+id/Menu9" android:showAsAction="never" android:title="9: Text" />
+    <item android:id="@+id/Menu10" android:showAsAction="never" android:title="10: Audio" />
+    <item android:id="@+id/Menu11" android:showAsAction="never" android:title="11: Map" />
+    <item android:id="@+id/Menu12" android:showAsAction="never" android:title="12: GPS" />
+    <item android:id="@+id/Menu13" android:showAsAction="never" android:title="13: Upload" />
+    <item android:id="@+id/Menu14" android:showAsAction="never" android:title="14: Play" />
+    <item android:id="@+id/Menu15" android:showAsAction="never" android:title="15: Time" />
+    <item android:id="@+id/Menu16" android:showAsAction="never" android:title="16: Voice" />
+    <item android:id="@+id/Menu17" android:showAsAction="never" android:title="17: SQLite" />
+    <item android:id="@+id/Menu18" android:showAsAction="never" android:title="18: Navigation" />
+    <item android:id="@+id/Menu19" android:showAsAction="never" android:title="19: Tab" />
+    <item android:id="@+id/Menu20" android:showAsAction="never" android:title="20: OpenCV" />
+    <item android:id="@+id/Menu21" android:showAsAction="never" android:title="21: Sensor" />
+    <item android:id="@+id/Menu22" android:showAsAction="never" android:title="22: Face CV" />
+    <item android:id="@+id/Menu23" android:showAsAction="never" android:title="23: AdMob" />
+    <item android:id="@+id/Menu24" android:showAsAction="never" android:title="24: " />
+    <item android:id="@+id/Menu25" android:showAsAction="never" android:title="25: " />
+    <item android:id="@+id/Menu26" android:showAsAction="never" android:title="26: " />
+    <item android:id="@+id/Menu27" android:showAsAction="never" android:title="27: " />
+    <item android:id="@+id/Menu28" android:showAsAction="never" android:title="28: " />
+    <item android:id="@+id/Menu29" android:showAsAction="never" android:title="29: " />
+    <item android:id="@+id/Menu30" android:showAsAction="never" android:title="30: " />
+
+</menu>

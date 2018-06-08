@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context="com.example.leica.learnapp.TimeActivity">
+
+    <TextView
+        android:text="0s"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/countText"
+        android:textSize="36sp"/>
+
+    <TextView
+        android:text="by Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/timeClassText"
+        android:textSize="24sp"
+        android:layout_below="@+id/countText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="46dp"/>
+
+    <TextView
+        android:text="by Date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dateClasssText"
+        android:textSize="24sp"
+        android:layout_below="@+id/timeClassText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:text="by Calendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/calendarClassText"
+        android:textSize="24sp"
+        android:layout_below="@+id/dateClasssText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:singleLine="false"/>
+
+</RelativeLayout>

@@ -1,0 +1,2 @@
+include ':app', ':jackson-annotations-2.4.0', ':ymap', ':httpmime-4.3.6', ':httpcore-4.3.3'
+include ':openCVLibrary2410'
